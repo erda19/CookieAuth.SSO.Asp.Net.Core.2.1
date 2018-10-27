@@ -1,0 +1,21 @@
+{
+  "name": "AuthorizationAndAuthentication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.24.6",
+    "gulp": "^3.9.1",
+    "gulp-dotnet-cli": "^1.1.0",
+    "gulp-install": "^1.1.0"
+  },
+  "dependencies": {
+    "gulp-run-command": "0.0.9"
+  }
+}
